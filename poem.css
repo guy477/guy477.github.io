@@ -8,7 +8,7 @@ p{
 }
 @media only screen and (max-width: 425px){
     p{
-        width: 70%;
+        width: 75%;
     }
 }
 @media only screen and (max-width: 320px){
