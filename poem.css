@@ -1,0 +1,18 @@
+p{
+    width: 40%;
+}
+@media only screen and (max-width: 768px){
+    p{
+        width: 60%;
+    }
+}
+@media only screen and (max-width: 425px){
+    p{
+        width: 70%;
+    }
+}
+@media only screen and (max-width: 320px){
+    p{
+        width: 90%;
+    }
+}
