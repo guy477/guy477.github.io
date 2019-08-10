@@ -6,3 +6,9 @@ Generally, this will revolve around my interests and, as such, the page will gro
 And, with all that being said, this is my webpage.
 
 -Thomas Pratt
+
+
+TODO:	Revamp user flow through website. **fix ugly url paths**
+	Add poland photos. **maybe recompress other photos to help page load speed**
+	About page?
+	Update random pages
