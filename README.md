@@ -8,6 +8,8 @@ And, with all that being said, this is my webpage.
 -Thomas Pratt
 
 
-TODO:	Revamp user flow through website. **fix ugly url paths**
-	Add poland photos. **maybe recompress other photos to help page load speed**
-	About page?
+## TODO:	
+* Add dates to Poems
+* Revamp user flow through website. **fix ugly url paths**
+* Add poland photos. **maybe recompress other photos to help page load speed**
+* About page?
